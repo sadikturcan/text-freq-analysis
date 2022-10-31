@@ -1,1 +1,1 @@
-# text_freq_analysis
+Frequency analysis program for character counts, digrams(two characters),trigrams(three characters).
