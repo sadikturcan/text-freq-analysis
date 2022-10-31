@@ -1,1 +1,1 @@
-Frequency analysis program for character counts, digrams(two characters),trigrams(three characters).
+Frequency analysis program for single character, digrams(two characters),trigrams(three characters)  frequencies.
